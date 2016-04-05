@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <partpropgroup name="ALL" />
+    <tournament id="1" name="SSM16" reg_begin="1900-01-01" reg_end="1900-01-01" max_part="50" form_group="ALL" />
+    <participant id="1" tournament="1" />
+    <prop id="1" definition="1" string_val="Item 1" owner="1" />
+    <prop id="2" definition="2" int_val="2" owner="1" />
+    <prop id="3" definition="3" date_val="1900-01-01" owner="1" />
+</dataset>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <propdef id="1" name="firstname" type="TEXT" />
+    <propdef id="2" name="class" type="NUMBER" />
+    <propdef id="3" name="birthdate" type="DATE" />
+</dataset>
